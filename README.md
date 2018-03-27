@@ -2,7 +2,7 @@
 <h1>Sudoku Solver Demo</h1>
 
 <p>
-This post demonstrates solving Sudoku using Backtracking. Algorithm and a working code sample is given.
+This Android app solving Sudoku using Backtracking. Algorithm and a working code sample is given.
 </p>
 
 <p>
